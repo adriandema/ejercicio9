@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: pingapp-config-env
-  labels:
-    app: pingapp
-data:
-  CONFIG_LOCATION: Adrian
-  DEVELOPER: Adrian
